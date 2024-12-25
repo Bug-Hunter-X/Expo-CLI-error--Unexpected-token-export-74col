@@ -1,0 +1,1 @@
+This repo contains a bug report for an issue encountered when using the Expo CLI with React Native. The error occurs when attempting to export a default class component, and this repository provides a solution.  The bug is resolved by modifying the export statement from exporting a class to exporting a functional component.
